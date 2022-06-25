@@ -1,2 +1,2 @@
 # vssuite
-Custom Software Development for medium scale business and startups. Our VS-Ecommerce platform enable sellers launch e-commerce app instantly
+VS-Suite library provides the basic default library components used in VS-Ecommerce templates
