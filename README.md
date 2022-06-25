@@ -1,7 +1,7 @@
 <h1 style="color:#620066;font-weight:bold">
  <a href="https://vsecommerce.com/">
   <img src="https://www.vsonlineservices.com/assets/images/logo/vs-logo-dark-l.webp" alt="VS Online Services" title="VS Online Services" align="top" height="30px" />
-  <span>!VS Suite UI library components</span>
+  <span style="color: green">VS Suite UI library components</span>
  </a>
 </h1>
 
