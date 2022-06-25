@@ -6,4 +6,4 @@
 </h1>
 
 
-VS-Suite library provides the some of the basic default library components used in VS-Ecommerce templates
+VS-Suite library provides some of the basic UI library components used in VS-Ecommerce templates
